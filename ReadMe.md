@@ -18,3 +18,6 @@ Andrew Ng在Coursera上的机器学习课程满分编程作业，使用MATLAB编
 * Exercise 6 Support Vector Machines
 * Exercise 7 K-Means Clustering and PCA
 * Exercise 8 Anomaly Detection and Recommender Systems
+
+PCA的数学原理
+http://blog.codinglabs.org/articles/pca-tutorial.html
